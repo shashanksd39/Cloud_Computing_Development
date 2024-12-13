@@ -1,0 +1,7 @@
+D:\test\CCP\WcfServiceCalc\bin\WcfServiceCalc.dll.config
+D:\test\CCP\WcfServiceCalc\bin\WcfServiceCalc.dll
+D:\test\CCP\WcfServiceCalc\bin\WcfServiceCalc.pdb
+D:\test\CCP\WcfServiceCalc\obj\Debug\WcfServiceCalc.csproj.AssemblyReference.cache
+D:\test\CCP\WcfServiceCalc\obj\Debug\WcfServiceCalc.csproj.CoreCompileInputs.cache
+D:\test\CCP\WcfServiceCalc\obj\Debug\WcfServiceCalc.dll
+D:\test\CCP\WcfServiceCalc\obj\Debug\WcfServiceCalc.pdb
